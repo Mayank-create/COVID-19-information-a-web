@@ -17,87 +17,53 @@ significant morbidity and mortality. NL63, representing a group of newly
 identified group I coronaviruses that includes NL and the New Haven corona
 virus, has been identified worldwide. These viruses are associated with both 
 upper and lower respiratory tract disease and are likely common human pathogens.
+<br>
 The global distribution of a newly identified group II coronavirus, HKU1, has 
 not yet been established. Coronavirology has advanced significantly in the 
 past few years. The SARS epidemic put the animal coronaviruses in the spotlight.
 The background and history relative to this important and expanding research 
 area are reviewed here.</p>
 <h3> HISTORY </h3>
-<p>The history of human coronaviruses began in 1965 when Tyrrell and Bynoe1 found 
-that they could passage a virus named B814. It was found in human embryonic tracheal 
-organ cultures obtained from the respiratory tract of an adult with a common cold. 
-The presence of an infectious agent was demonstrated by inoculating the medium from 
-these cultures intranasally in human volunteers; colds were produced in a significant 
-proportion of subjects, but Tyrrell and Bynoe were unable to grow the agent in tissue 
-culture at that time. At about the same time, Hamre and Procknow2 were able to grow a 
-virus with unusual properties in tissue culture from samples obtained from medical 
-students with colds. Both B814 and Hamre's virus, which she called 229E, were ether-
-sensitive and therefore presumably required a lipid-containing coat for infectivity, 
-but these 2 viruses were not related to any known myxo- or paramyxoviruses. While 
-working in the laboratory of Robert Chanock at the National Institutes of Health, 
-McIntosh et al3 reported the recovery of multiple strains of ether-sensitive agents 
-from the human respiratory tract by using a technique similar to that of Tyrrell and Bynoe.
- These viruses were termed “OC” to designate that they were grown in organ cultures.
-
-Within the same time frame, Almeida and Tyrrell4 performed electron microscopy on fluids 
-from organ cultures infected with B814 and found particles that resembled the infectious 
-bronchitis virus of chickens. The particles were medium sized (80–150 nm), pleomorphic, 
-membrane-coated, and covered with widely spaced club-shaped surface projections. The 229E 
-agent identified by Hamre and Procknow2 and the previous OC viruses identified by McIntosh 
-et al3 had a similar morphology (Fig. 1).
+<p>The history of human coronaviruses began in 1965 when Tyrrell and Bynoe1 found that they could passage a virus named B814. It was found in human embryonic tracheal organ cultures obtained from the respiratory tract of an adult with a common cold. The presence of an infectious agent was demonstrated by inoculating the medium from these cultures intranasally in human volunteers; colds were produced in a significant proportion of subjects, but Tyrrell and Bynoe were unable to grow the agent in tissue culture at that time. 
 <br>
 <br>
-<img src="https://cdn-images-journals.azureedge.net/pidj/ArticleViewerPreview.00006454-200511001-00012.F1-12.jpeg" alt="Italian Trulli">
+At about the same time, Hamre and Procknow2 were able to grow a 
+virus with unusual properties in tissue culture from samples obtained from medical students with colds. Both B814 and Hamre's virus, which she called 229E, were ether-sensitive and therefore presumably required a lipid-containing coat for infectivity, but these 2 viruses were not related to any known myxo- or paramyxoviruses. While working in the laboratory of Robert Chanock at the National Institutes of Health, McIntosh et al3 reported the recovery of multiple strains of ether-sensitive agents from the human respiratory tract by using a technique similar to that of Tyrrell and Bynoe.
 <br>
-FIGURE 1.: Coronavirus OC16. Reprinted with permission from Proc Natl Acad Sci USA. 1967;57;933–940.
+<br>
+ These viruses were termed “OC” to designate that they were grown in organ cultures.Within the same time frame, Almeida and Tyrrell4 performed electron microscopy on fluids from organ cultures infected with B814 and found particles that resembled the infectious bronchitis virus of chickens. The particles were medium sized (80–150 nm), pleomorphic, membrane-coated, and covered with widely spaced club-shaped surface projections. The 229E agent identified by Hamre and Procknow2 and the previous OC viruses identified by McIntosh 
+et al3 had a similar morphology.
 <br>
 <br>
-In the late 1960s, Tyrrell was leading a group of virologists working with the human strains 
-and a number of animal viruses. These included infectious bronchitis virus, mouse hepatitis 
-virus and transmissible gastroenteritis virus of swine, all of which had been demonstrated to 
-be morphologically the same as seen through electron microscopy. This new group of viruses was 
-named coronavirus (corona denoting the crown-like appearance of the surface projections) and 
-was later officially accepted as a new genus of viruses.
-
-Ongoing research using serologic techniques has resulted in a considerable amount of information 
-regarding the epidemiology of the human respiratory coronaviruses. It was found that in temperate 
-climates, respiratory coronavirus infections occur more often in the winter and spring than in the 
-summer and fall. Data revealed that coronavirus infections contribute as much as 35% of the total 
-respiratory viral activity during epidemics. Overall, he proportion of adult colds produced by 
-coronaviruses was estimated at 15%.
-
-In the 3 decades after discovery, human strains OC43 and 229E were studied exclusively, largely 
-because they were the easiest ones to work with. OC43, adapted to growth in suckling mouse brain 
-and subsequently to tissue culture, was found to be closely related to mouse hepatitis virus. 
-Strain 229E was grown in tissue culture directly from clinical samples. The 2 viruses demonstrated 
-periodicity, with large epidemics occurring at 2- to 3-year intervals.9 Strain 229E tended to be 
-epidemic throughout the United States, whereas strain OC43 was more predisposed to localized outbreaks. 
-As with many other respiratory viruses, reinfection was common.10 Infection could occur at any age, 
-but it was most common in children.
-
-Despite the extensive focus placed exclusively on strains 229E and OC43, it was clear that there
-were other coronavirus strains as well. As shown by Bradburne,11 coronavirus strain B814 was not 
-serologically identical with either OC43 or 229E. Contributing to the various strain differences 
-in the family of coronaviruses, McIntosh et al12 found that 3 of the 6 strains previously identified 
-were only distantly related to OC43 or 229E.
-
-Epidemiologic and volunteer inoculation studies found that respiratory coronaviruses were associated 
-with a variety of respiratory illnesses; however, their pathogenicity was considered to be low. The 
-predominant illness associated with infections was an upper respiratory infection with occasional 
-cases of pneumonia in infants and young adults. These viruses were also shown to be able to produce 
-asthma exacerbations in children as well as chronic bronchitis in adults and the elderly.
-
-While research was proceeding to explore the pathogenicity and epidemiology of the human coronaviruses, 
-the number and importance of animal coronaviruses were growing rapidly. Coronaviruses were described 
-that caused disease in multiple animal species, including rats, mice, chickens, turkeys, calves, dogs, 
-cats, rabbits and pigs. Animal studies included, but were not limited to, research that focused on 
-respiratory disorders. Study focus included disorders such as gastroenteritis, hepatitis and encephalitis 
-in mice; pneumonitis and sialodacryoadenitis in rats; and infectious peritonitis in cats. Interest peaked 
-particularly regarding areas of encephalitis produced by mouse hepatitis virus and peritonitis produced by 
-infectious peritonitis virus in cats. Pathogenesis of these disease states was various and complex, 
-demonstrating that the genus as a whole was capable of a wide variety of disease mechanisms.20 Human and 
-animal coronaviruses were segregated into 3 broad groups based on their antigenic and genetic makeup. Group 
-I contained virus 229E and other viruses, group II contained virus OC43 and group III was made up of avian 
+<img src="data:image/jpeg;base64,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" alt="Italian Trulli">
+<br>
+<br>
+In the late 1960s, Tyrrell was leading a group of virologists working with the human strains and a number of animal viruses. These included infectious bronchitis virus, mouse hepatitis virus and transmissible gastroenteritis virus of swine, all of which had been demonstrated to be morphologically the same as seen through electron microscopy. This new group of viruses was 
+named coronavirus (corona denoting the crown-like appearance of the surface projections) and was later officially accepted as a new genus of viruses.
+<br>
+<br>
+Ongoing research using serologic techniques has resulted in a considerable amount of information regarding the epidemiology of the human respiratory coronaviruses. It was found that in temperate climates, respiratory coronavirus infections occur more often in the winter and spring than in the summer and fall. Data revealed that coronavirus infections contribute as much as 35% of the total respiratory viral activity during epidemics. Overall, he proportion of adult colds produced by coronaviruses was estimated at 15%.
+<br>
+<br>
+In the 3 decades after discovery, human strains OC43 and 229E were studied exclusively, largely because they were the easiest ones to work with. OC43, adapted to growth in suckling mouse brain and subsequently to tissue culture, was found to be closely related to mouse hepatitis virus. 
+<br>
+<br>
+Strain 229E was grown in tissue culture directly from clinical samples. The 2 viruses demonstrated periodicity, with large epidemics occurring at 2- to 3-year intervals.9 Strain 229E tended to be epidemic throughout the United States, whereas strain OC43 was more predisposed to localized outbreaks. 
+As with many other respiratory viruses, reinfection was common.10 Infection could occur at any age, but it was most common in children.
+<br>
+<br>
+Despite the extensive focus placed exclusively on strains 229E and OC43, it was clear that therewere other coronavirus strains as well. As shown by Bradburne,11 coronavirus strain B814 was not serologically identical with either OC43 or 229E. Contributing to the various strain differences 
+in the family of coronaviruses, McIntosh et al12 found that 3 of the 6 strains previously identified were only distantly related to OC43 or 229E.
+<br>
+<br>
+Epidemiologic and volunteer inoculation studies found that respiratory coronaviruses were associated with a variety of respiratory illnesses; however, their pathogenicity was considered to be low. The predominant illness associated with infections was an upper respiratory infection with occasional 
+cases of pneumonia in infants and young adults. These viruses were also shown to be able to produce asthma exacerbations in children as well as chronic bronchitis in adults and the elderly.
+<br>
+<br>
+While research was proceeding to explore the pathogenicity and epidemiology of the human coronaviruses, the number and importance of animal coronaviruses were growing rapidly. Coronaviruses were described that caused disease in multiple animal species, including rats, mice, chickens, turkeys, calves, dogs, cats, rabbits and pigs. Animal studies included, but were not limited to, research that focused on respiratory disorders. Study focus included disorders such as gastroenteritis, hepatitis and encephalitis in mice; pneumonitis and sialodacryoadenitis in rats; and infectious peritonitis in cats. Interest peaked particularly regarding areas of encephalitis produced by mouse hepatitis virus and peritonitis produced by infectious peritonitis virus in cats.
+<br>
+<br>
+Pathogenesis of these disease states was various and complex, demonstrating that the genus as a whole was capable of a wide variety of diseasemechanisms.20 Human and animal coronaviruses were segregated into 3 broad groups based on their antigenic and genetic makeup. Group I contained virus 229E and other viruses, group II contained virus OC43 and group III was made up of avian 
 infectious bronchitis virus and a number of related avian viruses.</p>
 </body>
 </html>
