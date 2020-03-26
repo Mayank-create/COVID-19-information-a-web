@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> corona web </title>
+</head
+<body>
+<h2><!--Coronavirus disease(COVID-19) Pandemic --></h2>   <!--commented line-->
+<h1 style="color:red;">Coronavirus disease(COVID-19) Pandemic</h1>
+<p style="color:blue;">As the coronavirus is spreading among more and more countries day by day it is necessary to be get awared about this virus.</p>
+<h2 style="color:black;"> Beginning of Coronavirus</h2> 
+<h3>Abstract</h3>
+<p>Human coronaviruses, first characterized in the 1960s, are responsible 
+for a substantial proportion of upper respiratory tract infections in 
+children. Since 2003, at least 5 new human coronaviruses have been identified, 
+including the severe acute respiratory syndrome coronavirus, which caused 
+significant morbidity and mortality. NL63, representing a group of newly 
+identified group I coronaviruses that includes NL and the New Haven corona
+virus, has been identified worldwide. These viruses are associated with both 
+upper and lower respiratory tract disease and are likely common human pathogens.
+The global distribution of a newly identified group II coronavirus, HKU1, has 
+not yet been established. Coronavirology has advanced significantly in the 
+past few years. The SARS epidemic put the animal coronaviruses in the spotlight.
+The background and history relative to this important and expanding research 
+area are reviewed here.</p>
+<h3> HISTORY </h3>
+<p>The history of human coronaviruses began in 1965 when Tyrrell and Bynoe1 found 
+that they could passage a virus named B814. It was found in human embryonic tracheal 
+organ cultures obtained from the respiratory tract of an adult with a common cold. 
+The presence of an infectious agent was demonstrated by inoculating the medium from 
+these cultures intranasally in human volunteers; colds were produced in a significant 
+proportion of subjects, but Tyrrell and Bynoe were unable to grow the agent in tissue 
+culture at that time. At about the same time, Hamre and Procknow2 were able to grow a 
+virus with unusual properties in tissue culture from samples obtained from medical 
+students with colds. Both B814 and Hamre's virus, which she called 229E, were ether-
+sensitive and therefore presumably required a lipid-containing coat for infectivity, 
+but these 2 viruses were not related to any known myxo- or paramyxoviruses. While 
+working in the laboratory of Robert Chanock at the National Institutes of Health, 
+McIntosh et al3 reported the recovery of multiple strains of ether-sensitive agents 
+from the human respiratory tract by using a technique similar to that of Tyrrell and Bynoe.
+ These viruses were termed “OC” to designate that they were grown in organ cultures.
+
+Within the same time frame, Almeida and Tyrrell4 performed electron microscopy on fluids 
+from organ cultures infected with B814 and found particles that resembled the infectious 
+bronchitis virus of chickens. The particles were medium sized (80–150 nm), pleomorphic, 
+membrane-coated, and covered with widely spaced club-shaped surface projections. The 229E 
+agent identified by Hamre and Procknow2 and the previous OC viruses identified by McIntosh 
+et al3 had a similar morphology (Fig. 1).
+<br>
+<br>
+<img src="https://cdn-images-journals.azureedge.net/pidj/ArticleViewerPreview.00006454-200511001-00012.F1-12.jpeg" alt="Italian Trulli">
+<br>
+FIGURE 1.: Coronavirus OC16. Reprinted with permission from Proc Natl Acad Sci USA. 1967;57;933–940.
+<br>
+<br>
+In the late 1960s, Tyrrell was leading a group of virologists working with the human strains 
+and a number of animal viruses. These included infectious bronchitis virus, mouse hepatitis 
+virus and transmissible gastroenteritis virus of swine, all of which had been demonstrated to 
+be morphologically the same as seen through electron microscopy. This new group of viruses was 
+named coronavirus (corona denoting the crown-like appearance of the surface projections) and 
+was later officially accepted as a new genus of viruses.
+
+Ongoing research using serologic techniques has resulted in a considerable amount of information 
+regarding the epidemiology of the human respiratory coronaviruses. It was found that in temperate 
+climates, respiratory coronavirus infections occur more often in the winter and spring than in the 
+summer and fall. Data revealed that coronavirus infections contribute as much as 35% of the total 
+respiratory viral activity during epidemics. Overall, he proportion of adult colds produced by 
+coronaviruses was estimated at 15%.
+
+In the 3 decades after discovery, human strains OC43 and 229E were studied exclusively, largely 
+because they were the easiest ones to work with. OC43, adapted to growth in suckling mouse brain 
+and subsequently to tissue culture, was found to be closely related to mouse hepatitis virus. 
+Strain 229E was grown in tissue culture directly from clinical samples. The 2 viruses demonstrated 
+periodicity, with large epidemics occurring at 2- to 3-year intervals.9 Strain 229E tended to be 
+epidemic throughout the United States, whereas strain OC43 was more predisposed to localized outbreaks. 
+As with many other respiratory viruses, reinfection was common.10 Infection could occur at any age, 
+but it was most common in children.
+
+Despite the extensive focus placed exclusively on strains 229E and OC43, it was clear that there
+were other coronavirus strains as well. As shown by Bradburne,11 coronavirus strain B814 was not 
+serologically identical with either OC43 or 229E. Contributing to the various strain differences 
+in the family of coronaviruses, McIntosh et al12 found that 3 of the 6 strains previously identified 
+were only distantly related to OC43 or 229E.
+
+Epidemiologic and volunteer inoculation studies found that respiratory coronaviruses were associated 
+with a variety of respiratory illnesses; however, their pathogenicity was considered to be low. The 
+predominant illness associated with infections was an upper respiratory infection with occasional 
+cases of pneumonia in infants and young adults. These viruses were also shown to be able to produce 
+asthma exacerbations in children as well as chronic bronchitis in adults and the elderly.
+
+While research was proceeding to explore the pathogenicity and epidemiology of the human coronaviruses, 
+the number and importance of animal coronaviruses were growing rapidly. Coronaviruses were described 
+that caused disease in multiple animal species, including rats, mice, chickens, turkeys, calves, dogs, 
+cats, rabbits and pigs. Animal studies included, but were not limited to, research that focused on 
+respiratory disorders. Study focus included disorders such as gastroenteritis, hepatitis and encephalitis 
+in mice; pneumonitis and sialodacryoadenitis in rats; and infectious peritonitis in cats. Interest peaked 
+particularly regarding areas of encephalitis produced by mouse hepatitis virus and peritonitis produced by 
+infectious peritonitis virus in cats. Pathogenesis of these disease states was various and complex, 
+demonstrating that the genus as a whole was capable of a wide variety of disease mechanisms.20 Human and 
+animal coronaviruses were segregated into 3 broad groups based on their antigenic and genetic makeup. Group 
+I contained virus 229E and other viruses, group II contained virus OC43 and group III was made up of avian 
+infectious bronchitis virus and a number of related avian viruses.</p>
+</body>
+</html>
