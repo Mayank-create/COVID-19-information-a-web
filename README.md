@@ -1,3 +1,4 @@
+we never thought that in this century we would face a pandemic like this so it is important to make yourself acquainted with the knowledge about this new virus and how to deal with it.
 # COVID-19-information-a-web
 Corona all u want to know
 **corona web** and **corona css** are the initial commits in the web page.
